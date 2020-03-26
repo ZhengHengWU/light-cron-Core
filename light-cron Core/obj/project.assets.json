@@ -12108,11 +12108,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\OpenSource\\light-cron-Core\\light-cron Core\\light-cron Core.csproj",
+      "projectUniqueName": "E:\\OpenSource\\test\\light-cron-Core\\light-cron Core\\light-cron Core.csproj",
       "projectName": "light-cron Core",
-      "projectPath": "E:\\OpenSource\\light-cron-Core\\light-cron Core\\light-cron Core.csproj",
+      "projectPath": "E:\\OpenSource\\test\\light-cron-Core\\light-cron Core\\light-cron Core.csproj",
       "packagesPath": "C:\\Users\\吴正迪\\.nuget\\packages\\",
-      "outputPath": "E:\\OpenSource\\light-cron-Core\\light-cron Core\\obj\\",
+      "outputPath": "E:\\OpenSource\\test\\light-cron-Core\\light-cron Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

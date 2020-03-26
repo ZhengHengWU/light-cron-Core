@@ -26,7 +26,7 @@ namespace Md.Api.Service.Eq
         // 0 8 * * *  每天八点
         Task task = null;
         // <summary>
-        // 每天早上八点执行预警推送
+        // 每分钟执行一次
         // 过期时间默认60天
         // </summary>
         [CrontabSchedule("warningPush", "*/1 * * * *")]
